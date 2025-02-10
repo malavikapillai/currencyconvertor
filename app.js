@@ -1,7 +1,6 @@
 
 const BASE_URL ="https://api.freecurrencyapi.com/v1/latest?apikey=fca_live_WNtnH09cHnOZOUdKDzn8wZGPxlT2nDn4lqJX2aUu";
 
-
 const dropdowns = document.querySelectorAll(".dropdown select");
 const btn = document.querySelector("form button");
 const fromCurr = document.querySelector(".from select");
